@@ -2,6 +2,8 @@
 
 This Streamlit-based dashboard provides a comprehensive analysis of capital calls, forecasts, and cash flow simulations in private equity investments.
 
+Link to app: https://capital-call-analysis-dashboard.streamlit.app/
+
 ## Features
 
 * **Capital Call Risk Distribution:** Visualizes the risk distribution of capital calls over time.
