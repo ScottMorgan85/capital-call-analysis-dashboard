@@ -30,7 +30,6 @@ Interact with the dashboard by adjusting parameters in the sidebar:
 
 Explore the different visualizations and analyze the results.
 
-## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
